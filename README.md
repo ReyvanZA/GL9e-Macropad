@@ -5,6 +5,7 @@ Bluetooth without battery
 # Tiny 4b
 4 button attiny85 macropad
 Using ladder resistance
+http://www.technoblogy.com/show?LSE <-- for reference
 
 https://www.thingiverse.com/thing:4820562
 
